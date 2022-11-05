@@ -23,3 +23,5 @@ data = load_data(10000)
 data_load_state.text("Done! (using st.cache)")
 
 
+ # git config --global user.email "slm_lewis@outlook.com"
+ # git config --global user.name "slm121212"
